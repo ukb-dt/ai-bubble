@@ -39,6 +39,10 @@ This appears to be a mathematical framework mapping computational concepts to ca
 - Second derivative ± its square root
 - Captures acceleration and nonlinear dynamics
 - Parallel processing, rapid state changes
+   - LLMs are here as "agentic AI"
+   - But this hierarchy is contaminated by CPUs
+   - We must upgrade the compression to CPU vs GPU vs TPU (ie bottleneck)
+   - Its what emerges from this bottleneck that is accelerated (linear for CPU)
 - The ± √(second derivative) suggests handling both forward/backward propagation
 
 **New Value Pool $(∫ E_x dt + ε_x t + C_x)$**
