@@ -22,11 +22,11 @@ This appears to be a mathematical framework mapping computational concepts to ca
 
 ## Computational Hierarchy Through Mathematical Operations
 
-**Data $(E, x)$**
+**Data Frame $(E, x)$ - Primal World Deluge**
 - Base state: Energy/value $E$ and position/state $x$
 - Raw, unprocessed information
 
-**Processing $(E(t \| x) + ε)$**
+**Processing $(E(t \| x) + ε)$ - [RecSys](https://en.wikipedia.org/wiki/Recommender_system)**
 - Conditional expectation plus noise/error term
 - Single computational operations on data
 
